@@ -20,5 +20,5 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Code', 'Code/**/*.{h,m}'
 
-  s.dependency 'RestKit', '0.20.0pre6'
+  s.dependency 'RestKit', '0.20.0rc1'
 end
